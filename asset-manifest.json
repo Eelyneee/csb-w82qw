@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://eelyneee.github.io/csb-w82qw/static/js/main.e5d598d4.chunk.js",
+    "main.js.map": "https://eelyneee.github.io/csb-w82qw/static/js/main.e5d598d4.chunk.js.map",
+    "runtime-main.js": "https://eelyneee.github.io/csb-w82qw/static/js/runtime-main.a8a902b6.js",
+    "runtime-main.js.map": "https://eelyneee.github.io/csb-w82qw/static/js/runtime-main.a8a902b6.js.map",
+    "static/js/2.97bd378f.chunk.js": "https://eelyneee.github.io/csb-w82qw/static/js/2.97bd378f.chunk.js",
+    "static/js/2.97bd378f.chunk.js.map": "https://eelyneee.github.io/csb-w82qw/static/js/2.97bd378f.chunk.js.map",
+    "index.html": "https://eelyneee.github.io/csb-w82qw/index.html",
+    "precache-manifest.2322dd917e56dae569539490ba8e3880.js": "https://eelyneee.github.io/csb-w82qw/precache-manifest.2322dd917e56dae569539490ba8e3880.js",
+    "service-worker.js": "https://eelyneee.github.io/csb-w82qw/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a902b6.js",
+    "static/js/2.97bd378f.chunk.js",
+    "static/js/main.e5d598d4.chunk.js"
+  ]
+}
