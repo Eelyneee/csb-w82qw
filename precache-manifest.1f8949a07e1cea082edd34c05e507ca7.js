@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8f67caf6d038fff56b541180342e4e4",
+    "revision": "5b79edcb94a1ca434096ee0d0115e787",
     "url": "https://eelyneee.github.io/csb-w82qw/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://eelyneee.github.io/csb-w82qw/static/js/2.97bd378f.chunk.js"
   },
   {
-    "revision": "8cbf5eb6725b02c4a4f8",
-    "url": "https://eelyneee.github.io/csb-w82qw/static/js/main.e5d598d4.chunk.js"
+    "revision": "4edcde069cf7058532f0",
+    "url": "https://eelyneee.github.io/csb-w82qw/static/js/main.8da0920a.chunk.js"
   },
   {
     "revision": "fc15d2e5e1116b5c505c",

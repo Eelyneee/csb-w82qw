@@ -1,2 +1,0 @@
-(this["webpackJsonpusestate-hook"]=this["webpackJsonpusestate-hook"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var a=n(0),o=n.n(a),c=n(2),r=n.n(c),s=n(3);var u=function(){var e=Object(a.useState)(0),t=Object(s.a)(e,2),n=t[0],c=t[1];return o.a.createElement("div",{className:"container"},o.a.createElement("h1",null,"0"),o.a.createElement("button",{onChange:function(){c(n+1),console.log(n)}},"+"))};r.a.render(o.a.createElement(u,null),document.getElementById("root"))},4:function(e,t,n){e.exports=n(10)}},[[4,1,2]]]);
-//# sourceMappingURL=main.e5d598d4.chunk.js.map
